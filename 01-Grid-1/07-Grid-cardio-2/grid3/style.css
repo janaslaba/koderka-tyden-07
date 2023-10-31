@@ -21,3 +21,11 @@
 
 /* ---------------------------------------------------- */
 /* ZDE NAPIŠ VLASTNÍ CSS */
+
+
+.kontejner {
+    display: grid;
+    grid-template-columns: 1fr 100px 100px 2fr;
+    grid-template-rows: auto;
+}
+
